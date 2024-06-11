@@ -5,6 +5,11 @@
     display: flex;
     flex-direction: column; /* Arrange items vertically */
   }
+  .image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px; /* Adjust spacing between images */
+  }
 </style>
 
 android application for college with all the basic features for both the teachers as well as students so that they can remain in touch and can be informed about the things that are happening in college 
@@ -13,5 +18,6 @@ android application for college with all the basic features for both the teacher
 
 <h3>Screen-Shots</h3>
 <div class="images_prev">
-<img src="">
-<img src="">
+  <img class="image" src="image1.jpg" alt="Image 1">
+  <img class="image" src="image2.jpg" alt="Image 2">
+  <img class="image" src="image3.jpg" alt="Image 3">
