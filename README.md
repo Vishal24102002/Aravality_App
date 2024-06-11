@@ -49,7 +49,7 @@ Android application for college with all the basic features for both the teacher
   <img style="max-width: 100%; height: 250px; margin-bottom: 40px;" src="images/myapp.jpg">
 </p>
 
-<footer>
+<footer align="right">
   <b><i>Thanks for visiting this page</i></b>
 </footer>  
   
