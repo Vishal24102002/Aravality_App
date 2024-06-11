@@ -33,12 +33,11 @@ Android application for college with all the basic features for both the teacher
     </li>
     <li>
       <h5>Fee-payment</h5>
-      
     </li>
   </ul>
 </div>
 
-<h2>For downloading use the qr code</h2>
+<h2>Scan-to-Download</h2>
 <center>
   <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/myapp.jpg">
 </center>
