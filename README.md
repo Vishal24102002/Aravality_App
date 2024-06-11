@@ -3,10 +3,11 @@
 Android application for college with all the basic features for both the teachers as well as students so that they can remain in touch and can be informed about the things that are happening in college 
 
 <h2>Technology/Languages used</h2>
-<img style="max-width: 100%; height: 20px; margin-bottom: 40px;" src="images/flut.png" alt="android app"> Flutter 
-<img style="max-width: 100%; height: 20px; margin-bottom: 40px;" src="images/appscr.png" alt="app-script for api"> App-Script 
-<img style="max-width: 100%; height: 20px; margin-bottom: 40px;" src="images/fire.png" alt="for storage and authentication"> Firebase
-<img style="max-width: 100%; height: 20px; margin-bottom: 40px;" src="images/python.png" alt="timetable generation"> Python flask 
+<p><img style="max-width: 100%; height: 20px;" src="images/flut.png" alt="android app"> Flutter </p>
+<p><img style="max-width: 100%; height: 20px;" src="images/appscr.png" alt="app-script for api"> App-Script </p>
+<p><img style="max-width: 100%; height: 20px;" src="images/fire.png" alt="for storage and authentication"> Firebase </p>
+<p><img style="max-width: 100%; height: 20px;" src="images/python.png" alt="timetable generation"> Python flask </p>
+
 <br> code is not provided but the basic pages will be shown in screen shots for preview <br>
 
 <h2>Screen-Shots</h2>
