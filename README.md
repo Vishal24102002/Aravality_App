@@ -8,13 +8,13 @@ Android application for college with all the basic features for both the teacher
     Flutter <img style="max-width: 100%; height: 20px; margin-bottom: 40px;" src="images/flut.png" alt="android app">
   </li>
   <li>
-    App-Script <img src="" alt="">
+    App-Script <img src="images/appscr.png" alt="app-script for api">
   </li>
   <li>
-    Firebase <img src="" alt="">
+    Firebase <img src="images/fire.png" alt="for storage and authentication">
   </li>
   <li>
-    Python flask <img src="" alt="">
+    Python flask <img src="images/python.png" alt="timetable generation">
   </li>
 </ul>
 
