@@ -5,7 +5,7 @@ Android application for college with all the basic features for both the teacher
 <h2>Technology/Languages used</h2>
 <ul>
   <li>
-    Flutter <img src="" alt="android app">
+    Flutter <img style="max-width: 100%; height: 80px; margin-bottom: 40px;" src="images/flut.png" alt="android app">
   </li>
   <li>
     App-Script <img src="" alt="">
