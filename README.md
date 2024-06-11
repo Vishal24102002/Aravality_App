@@ -12,9 +12,16 @@ android application for college with all the basic features for both the teacher
   <br>
   <h3>Student-View</h3>
   <ol>
-  <li>
-    <h4>Dark-theme</h4>
-  <img style="max-width: 100%; height: 400px; margin-bottom: 20px;" src="images/dark_student.jpg" alt="Image 3">
-  <img style="max-width: 100%; height: 400px; margin-bottom: 20px;" src="images/profile.jpg" alt="Image 3">
-  <img style="max-width: 100%; height: 400px; margin-bottom: 20px;" src="images/setting.jpg" alt="Image 3">
-  </li>
+    <li>
+      <h4>Dark-theme</h4>
+      <img style="max-width: 100%; height: 400px; margin-bottom: 20px;" src="images/dark_student.jpg" alt="Image 3">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 20px;" src="images/profile.jpg" alt="Image 3">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 20px;" src="images/setting.jpg" alt="Image 3">
+    </li>
+    <li>
+      <h4>Dark-theme</h4>
+      <img style="max-width: 100%; height: 400px; margin-bottom: 20px;" src="images/light_student.jpg" alt="Image 3">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 20px;" src="images/profile.jpg" alt="Image 3">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 20px;" src="images/setting.jpg" alt="Image 3">
+    </li>
+  </ol>
