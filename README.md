@@ -2,6 +2,22 @@
 
 Android application for college with all the basic features for both the teachers as well as students so that they can remain in touch and can be informed about the things that are happening in college 
 
+<h2>Technology/Languages used</h2>
+<ul>
+  <li>
+    Flutter <img src="" alt="android app">
+  </li>
+  <li>
+    App-Script <img src="" alt="">
+  </li>
+  <li>
+    Firebase <img src="" alt="">
+  </li>
+  <li>
+    Python flask <img src="" alt="">
+  </li>
+</ul>
+
 <br> code is not provided but the basic pages will be shown in screen shots for preview <br>
 
 <h2>Screen-Shots</h2>
@@ -14,22 +30,22 @@ Android application for college with all the basic features for both the teacher
   <ol>
     <li>
       <h4>Dark-Theme</h4>
-      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/dark_student.jpg" alt="Image 3">
-      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/profile.jpg" alt="Image 3">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/dark_student.jpg" alt="dark theme for student view">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/profile.jpg" alt="profile page">
       <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/setting.jpg" alt="Image 3">
     </li>
     <li>
       <h4>Light-Theme</h4>
-      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/light_student.jpg" alt="Image 3">
-      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/profile.jpg" alt="Image 3">
-      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/setting.jpg" alt="Image 3">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/light_student.jpg" alt="light theme for student view">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/profile.jpg" alt="profile page">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/setting.jpg" alt="setting page">
     </li>
   </ol>
   <h3>Service-Pages</h3>
   <ul>
     <li>
       <h5>Holidays</h5>
-      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/holiday.jpg" alt="Image 3">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/holiday.jpg" alt="Holidays will be marked on this calender for students">
     </li>
     <li>
       <h5>Fee-payment</h5>
