@@ -18,6 +18,6 @@ android application for college with all the basic features for both the teacher
 
 <h3>Screen-Shots</h3>
 <div class="images_prev">
-  <img class="image" src="images/loading.jpg" alt="Image 1" height=100px >
-  <img class="image" src="images/login.jpg" alt="Image 2">
+  <img class="image" src="images/loading.jpg" alt="loading-page" height=300px >
+  <img class="image" src="images/login.jpg" alt="login-page" height=300px>
   <img class="image" src="image3.jpg" alt="Image 3">
