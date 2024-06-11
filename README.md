@@ -1,6 +1,6 @@
-# aravality_app
+# Aravality_App
 
-android application for college with all the basic features for both the teachers as well as students so that they can remain in touch and can be informed about the things that are happening in college 
+Android application for college with all the basic features for both the teachers as well as students so that they can remain in touch and can be informed about the things that are happening in college 
 
 <br> code is not provided but the basic pages will be shown in screen shots for preview <br>
 
@@ -26,3 +26,12 @@ android application for college with all the basic features for both the teacher
     </li>
   </ol>
   <h3>Service-Pages</h3>
+  <ul>
+    <li>
+      <h5>Holidays</h5>
+      <img style="max-width: 100%; height: 400px; margin-bottom: 20px;" src="images/.jpg" alt="Image 3">
+    </li>
+    <li>
+      <h5>Fee-payment</h5>
+    </li>
+  </ul>
