@@ -37,8 +37,8 @@ Android application for college with all the basic features for both the teacher
   </ul>
 </div>
 
-<h2>Scan-to-Download</h2>
 <p align="center">
+<h2>Scan-to-Download</h2>
   <img style="max-width: 100%; height: 150px; margin-bottom: 40px;" src="images/myapp.jpg">
 </p>
 
