@@ -9,7 +9,7 @@ Android application for college with all the basic features for both the teacher
   <h3>Basic-Pages</h3>
   <img style="max-width: 100%; height: 400px; margin-bottom: 20px;" src="images/loading.jpg" alt="loading-page">
   <img style="max-width: 100%; height: 400px; margin-bottom: 20px;" src="images/login.jpg" alt="login-page" height=300px>
-  <br>
+<!--   <br> -->
   <h3>Student-View</h3>
   <ol>
     <li>
@@ -35,3 +35,5 @@ Android application for college with all the basic features for both the teacher
       <h5>Fee-payment</h5>
     </li>
   </ul>
+  <br>
+  
