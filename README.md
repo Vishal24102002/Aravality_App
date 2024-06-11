@@ -29,7 +29,7 @@ Android application for college with all the basic features for both the teacher
   <ul>
     <li>
       <h5>Holidays</h5>
-      <img style="max-width: 100%; height: 400px; margin-bottom: 20px;" src="images/.jpg" alt="Image 3">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 20px;" src="images/holiday.jpg" alt="Image 3">
     </li>
     <li>
       <h5>Fee-payment</h5>
