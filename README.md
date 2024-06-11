@@ -4,9 +4,9 @@ android application for college with all the basic features for both the teacher
 
 <br> code is not provided but the basic pages will be shown in screen shots for preview <br>
 
-<h3>Screen-Shots</h3>
+<h2>Screen-Shots</h2>
 <div style="display: flex; flex-direction: column;">
-  <h4>Basic</h4>
+  <h3>Basic</h3>
   <img style="max-width: 100%; height: 400px; margin-bottom: 20px;" src="images/loading.jpg" alt="loading-page">
   <img style="max-width: 100%; height: 400px; margin-bottom: 20px;" src="images/login.jpg" alt="login-page" height=300px>
   <br>
