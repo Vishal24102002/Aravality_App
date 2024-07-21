@@ -42,6 +42,8 @@ Android application for college with all the basic features for both the teacher
     </li>
     <li>
       <h5>Fee-payment</h5>
+      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/pay-op.jpg" alt="Holidays will be marked on this calender for students">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/pay-status.jpg" alt="Holidays will be marked on this calender for students">
     </li>
   </ul>
 </div>
