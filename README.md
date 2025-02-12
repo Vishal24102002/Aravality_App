@@ -24,14 +24,14 @@ Android application for college with all the basic features for both the teacher
     <li>
       <h4>Dark-Theme</h4>
       <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/home_dark.jpg" alt="dark theme for student view">
-      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/profile.jpg" alt="profile page">
-      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/setting.jpg" alt="Image 3">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/pro.jpg" alt="profile page">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/set.jpg" alt="Image 3">
     </li>
     <li>
       <h4>Light-Theme</h4>
       <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/light_student.jpg" alt="light theme for student view">
-      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/profile.jpg" alt="profile page">
-      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/setting.jpg" alt="setting page">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/pro.jpg" alt="profile page">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/set.jpg" alt="setting page">
     </li>
   </ol>
   <h3>Service-Pages</h3>
