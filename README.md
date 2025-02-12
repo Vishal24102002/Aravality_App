@@ -23,7 +23,7 @@ Android application for college with all the basic features for both the teacher
   <ol>
     <li>
       <h4>Dark-Theme</h4>
-      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/dark_student.jpg" alt="dark theme for student view">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/home_dark.jpg" alt="dark theme for student view">
       <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/profile.jpg" alt="profile page">
       <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/setting.jpg" alt="Image 3">
     </li>
@@ -37,13 +37,21 @@ Android application for college with all the basic features for both the teacher
   <h3>Service-Pages</h3>
   <ul>
     <li>
-      <h5>Holidays</h5>
-      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/holiday.jpg" alt="Holidays will be marked on this calender for students">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/holiday.jpg" alt="Holidays will be marked on this calender for students"
+      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/notice.jpg" alt="Holidays will be marked on this calender for students">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/fee.jpg" alt="Holidays will be marked on this calender for students">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/pyq.jpg" alt="Holidays will be marked on this calender for students">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/time_table.jpg" alt="Holidays will be marked on this calender for students">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/chat.jpg" alt="Holidays will be marked on this calender for students">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/result_seesional.jpg" alt="Holidays will be marked on this calender for students">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/buss.jpg" alt="Holidays will be marked on this calender for students">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/notice.jpg" alt="Holidays will be marked on this calender for students">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/teachers.jpg" alt="Holidays will be marked on this calender for students">
     </li>
     <li>
       <h5>Fee-payment</h5>
-      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/pay-op.jpg" alt="Holidays will be marked on this calender for students">
-      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/pay-status.jpg" alt="Holidays will be marked on this calender for students">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/fee_pay1.jpg" alt="Holidays will be marked on this calender for students">
+      <img style="max-width: 100%; height: 400px; margin-bottom: 40px;" src="images/fee_pay.jpg" alt="Holidays will be marked on this calender for students">
     </li>
   </ul>
 </div>
