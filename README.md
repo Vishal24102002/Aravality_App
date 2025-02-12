@@ -63,6 +63,7 @@ Android application for college with all the basic features for both the teacher
 </p>
 
 <footer align="right">
+  <b><i>Creator : Cipher-Void </i></b>
   <b><i>Thanks for visiting this page</i></b>
 </footer>  
   
